@@ -1,0 +1,2 @@
+The amount of inputted words is: 6
+Most common of which are: [('stop', 1), ('right', 1), ('there,', 1), ('you', 1), ('criminal', 1)]
